@@ -22,7 +22,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBatchApplication {
 
 	/**
-	 * The main method.
+	 * The main method .
 	 *
 	 * @param args the arguments
 	 */
